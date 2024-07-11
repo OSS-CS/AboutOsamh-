@@ -90,7 +90,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 const typed = new Typed('.multiple-text', {
-  strings: ['FrontEnd Developer' , 'Mobile Developer' ],
+  strings: ['FrontEnd Developer' , 'Mobile Developer' , 'Data Analysis' ],
   typeSpeed: 50,
   backSpeed: 70,
   backDelay: 1000,
@@ -99,7 +99,7 @@ const typed = new Typed('.multiple-text', {
 });
 
 const typedd = new Typed('.multiple-text-about', {
-  strings: ['FrontEnd Developer' , 'Mobile Developer' ],
+  strings: ['FrontEnd Developer' , 'Mobile Developer' , 'Data Analysis' ],
   typeSpeed: 50,
   backSpeed: 70,
   backDelay: 1000,
